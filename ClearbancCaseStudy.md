@@ -103,6 +103,36 @@ A **few major competitors** in the Canadian lending domain include;
 
 * **Nest Wealth**: Provides their clients with access to direct-to-investor portfolio options and other financial management products. 
 
+## Results
+
+### What has been the business impact of this company so far?
+
+Since its conception, Clearbanc has managed to disrupt the venture capital industry. Their strategic use of AI technology and revenue growth metrics has allowed them to develop a unique credit underwriting process known as; “the 20-minute term sheet.” Unlike other venture capital competitors and alternative lending fintech companies, the individual experiences and industry expertise co-founders bring to the table allowed them to reach the growing success they have acquired today. Clearbanc continues to achieve its goal; to allow more entrepreneurs to own more of their business. Their revenue share model supported by artificial intelligence data has allowed them to provide $150 million CAD capital investment to over 500 Canadian direct-to-consumer ecommerce businesses. Additionally, the “20-minute term sheet” model has significantly diminished bias commonly found in the venture capital domain. Of the backed companies rejected by VC firms, majority of them were owned by females or visible-minorities. Clearbanc’s efforts continue to impact the modernization of the lending industry and positively influence the associated social practices. 
+
+### What are some of the core metrics that companies in this domain use to measure success?
+
+Both the lending and alternative lending industries use similar key performance indicators to track and monitor their success in the domain. Research states there are eight primary metrics financial firms should use to analyze their growth and success model. 
+
+1. Pull through rate
+2. Decision to close time
+3. Abandoned loan rate
+4. Average origination value 
+5. Application approval rate
+6. Net charge-off rate
+7. Customer acquisition cost
+8. Average number of conditions per loan
+
+### How is your company performing, based on these metrics?
+
+Although Clearbanc does not disclose valuation financials and performance information, from recent third party reports based on raised capital and the number of clients backed, the capital as a service firm is achieving their objectives. Clearbanc’s priority goal is to back more than 200 companies and provide access to $1 billion CAD equity-free capital. Based on the firms’ current customer acquisition and pull through rate, Clearbanc appears to be operating at optimal performance. However, as many businesses are affected due to current economic slow downs, future reporting on Clearbanc’s financials are expected to present sub-par outcomes. 
+
+
+### How is your company performing relative to competitors in the same domain?
+
+Evaluating Clearbanc against competitors, it is evident that their use of AI technology and industry expertise allow them to be the leader within the domain. The firm's introduction of the “20-minute term sheet” part of the underwriting evaluation strategy suggests they are ahead in the fintech alternative lending space. Whilst most firms rely on machine learning technologies to assist them in venture capital decisions, none are able to provide the speed and efficiency Clearbanc provides to their clients. Automation and efficiency is at the forefront of operations at Clearbanc. Due to their focus on innovation and access to non-dilutive capital indicates they are leading the playing field against traditional venture capital investors. 
+
+
+
 
 
 
