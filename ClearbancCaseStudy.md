@@ -2,10 +2,7 @@
 
 ## Clearbanc Origin & Company Overview
 
-![imagebanner](Images/Clearbank_Banner.jpg)
-
-
-Clearbanc is a modern non-dillutive capital as a service (CaaS) firm. The FinTech comapny was founded in 2015 and is headquartered in Toronto, Canada.
+![imagebanner](Images/Clearbank_Banner.jpg)*Clearbanc is a modern non-dillutive capital as a service (CaaS) firm. The FinTech comapny was founded in 2015 and is headquartered in Toronto, Canada.*
 
 ![imagefounders](Images/Clearbanc_Founders.jpg)
 
@@ -13,6 +10,7 @@ Clearbanc is a modern non-dillutive capital as a service (CaaS) firm. The FinTec
 **CEO & Co-founder**: Andrew D’Souza (right)
 
 Additional **key members** include;
+
 * VP of finance & co-founder: Ivan Gritsiniak
 * VP of Business operations & co-founder: Charlie Feng
 * VP of product & co-founder: Tanay Delima
@@ -85,7 +83,7 @@ A **few major competitors** in the Canadian lending domain include;
 
 ![imageshopify](Images/ShopifyLogo.jpg)
 
-* **Shopify**: Provides ecommerce businesses with an integrated platform that allows them to develop a successful business.
+* **Shopify** : Provides ecommerce businesses with an integrated platform that allows them to develop a successful business.
 
 ![image](Images/EasyFinancialLogo.jpg)
 

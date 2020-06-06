@@ -1,6 +1,6 @@
 # Clearbanc CaseStudy
 
-## Case Description
+## Project Description
 
 *This is the first homework assignment in the FinTech Bootcamp course at UofT's SCS.*
 
@@ -14,6 +14,12 @@ The purpose of this case study is to highlight the evolution, cotributions, and 
 * Results
 * Recommendations
 * Addendum
+
+## File Contents
+
+* ReadMe Documentation
+* Clearbanc Case Study
+* [Images](Images/)
 
 ## Installation Requirements
 
