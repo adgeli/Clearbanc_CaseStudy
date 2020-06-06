@@ -2,17 +2,17 @@
 
 ## Clearbanc Origin & Company Overview
 
-![imagebanner](Images/Clearbank_Banner.jpg) 
+![imagebanner](Images/Clearbank_Banner.jpg)
 
 
 Clearbanc is a modern non-dillutive capital as a service (CaaS) firm. The FinTech comapny was founded in 2015 and is headquartered in Toronto, Canada.
 
 ![imagefounders](Images/Clearbanc_Founders.jpg)
 
-**President & Co-founder**: Michele Romanow (left) 
+**President & Co-founder**: Michele Romanow (left)
 **CEO & Co-founder**: Andrew D’Souza (right)
 
-Additional **key members** include; 
+Additional **key members** include;
 * VP of finance & co-founder: Ivan Gritsiniak
 * VP of Business operations & co-founder: Charlie Feng
 * VP of product & co-founder: Tanay Delima
@@ -24,6 +24,8 @@ Additional **key members** include;
 ### How is the company funded? How much funding have they received?
 
 Backed by outstanding reputation and experience, Clearbanc founders' alternative to the venture capitalist idea continues to attract growing attention from investors. The most recent equity report released in 2019 indicates Clearbanc has had two funding periods raising a total of $300 million CAD. From the public records Clearbanc provides, over 80 per cent ($250 million CAD) of acquired equity is provided by the company’s limited partners. The raised capital is allocated as a series three fund to assist Clearbanc’s ecommerce partners develop their business efforts successfully. The remaining portion of total funding Clearbanc received was at the end of 2018, allocating $50 million CAD as a series B funding source from high stake investors such as; Highland Capital, iNovia, and Emergence Capital.
+
+---
 
 ## Business Activities
 
@@ -53,9 +55,11 @@ Not only does Clearbanc offer an unconventional access to investor funding, thei
 
 ![imageAI](Images/AIPic.jpg)
 
-Clearbanc recognized the freelancer's market demand for accessible capital without having to compromise business equity and personal assets to gain funding. A solid portion of entrepreneurs allocate a significant amount of the received venture capital dollars to consumer acquisition efforts. Clearbanc analysts state that 40 percent of startups' investor resources are distributed to Google and Facebook advertisements rather than product development. Understanding the value of equity, Clearbanc portrays themselves as a co-investor to ecommerce entrepreneurs to help them build their brand reputation and market reach without requiring businesses to forgo part of their ownership. 
+Clearbanc recognized the freelancer's market demand for accessible capital without having to compromise business equity and personal assets to gain funding. A solid portion of entrepreneurs allocate a significant amount of the received venture capital dollars to consumer acquisition efforts. Clearbanc analysts state that 40 percent of startups' investor resources are distributed to Google and Facebook advertisements rather than product development. Understanding the value of equity, Clearbanc portrays themselves as a co-investor to ecommerce entrepreneurs to help them build their brand reputation and market reach without requiring businesses to forgo part of their ownership.
 
-Instead, with the use of artificial intelligence and machine learning technology, Clearbanc uses two metrics to identify underwriting growth potential and risks when investing in freelancers. Clearbanc’s machine learning data driven systems use positive ad metrics and unit economic analysis to examine the startups’ health and future growth model. Additionally, Clearbanc uses artificial intelligence to review the firm's revenue data, return on ad spend, and marketing data to determine possible funding options that can be provided to entrepreneurs. The artificial intelligence system introduced one of the firms’ newest competitive advantages; the  “20-minute term sheet.” The use of AI technology speeds up the credit underwriting process and months of data collection that traditional venture capital firms use in the investment procedure. Clearbanc believes that by relying on a data-driven revenue share model and implementation of AI technology provides startups the access to capital they require. 
+Instead, with the use of artificial intelligence and machine learning technology, Clearbanc uses two metrics to identify underwriting growth potential and risks when investing in freelancers. Clearbanc’s machine learning data driven systems use positive ad metrics and unit economic analysis to examine the startups’ health and future growth model. Additionally, Clearbanc uses artificial intelligence to review the firm's revenue data, return on ad spend, and marketing data to determine possible funding options that can be provided to entrepreneurs. The artificial intelligence system introduced one of the firms’ newest competitive advantages; the  “20-minute term sheet.” The use of AI technology speeds up the credit underwriting process and months of data collection that traditional venture capital firms use in the investment procedure. Clearbanc believes that by relying on a data-driven revenue share model and implementation of AI technology provides startups the access to capital they require.
+
+---
 
 ## Landscape
 
@@ -63,15 +67,15 @@ Instead, with the use of artificial intelligence and machine learning technology
 
 ### What domain of the financial industry is the company in?
 
-Clearbanc provides their alternative to venture capital funding services in Canada’s (and the United States) financial lending market. 
+Clearbanc provides their alternative to venture capital funding services in Canada’s (and the United States) financial lending market.
 
 ### What have been the major trends and innovations of this domain over the last 5-10 years?
 
 The lending market is experiencing exponential growth from emerging and developing fintech companies. The leding domain in Canada does not require financial institutions to hold a licensing requirement. Therefore, the lending landscape sustained innovative remodelling. Not subject to the same laws and regulations traditional financial institutions are required to follow, fintech companies offer specialized services and alternative funding options to consumers and businesses.
 
-**Market Trends**
+#### **Market Trends**
 
-* The lending landscape witnessed a major disruption once financial services began adapting to the market demand of digital services. Firms introduced unconventional access to financial resources through the use of machine algorithms and other advancing technologies to innovate traditional banking services. By modernizing standard practices, fintech companies developed platforms and networks replacing the brick-and-mortar banking branches consumers were well accustomed to. As fintech companies specializing in the lending industry gained reputation and attracted the necessary capital to grow their services, many Canadians abandoned their relationships with larger banks. Once the landscape’s market segment expanded, fintech lending companies were able to take on high-risk portfolios, offer clients long-term loans, and offer equity services at a lower rate. The peer-to-peer lending evolution in the fintech industry interfered with banking systems as they emerged as serious competitors. As the era of digital transformation continued, innovating operations to improve efficiency was a key trend in the fintech lending domain. To drive the industry’s competitive advantage, fintech companies adopted data-driven models powered by machine learning algorithms to reduce both internal and external risks and increase profitability. 
+* The lending landscape witnessed a major disruption once financial services began adapting to the market demand of digital services. Firms introduced unconventional access to financial resources through the use of machine algorithms and other advancing technologies to innovate traditional banking services. By modernizing standard practices, fintech companies developed platforms and networks replacing the brick-and-mortar banking branches consumers were well accustomed to. As fintech companies specializing in the lending industry gained reputation and attracted the necessary capital to grow their services, many Canadians abandoned their relationships with larger banks. Once the landscape’s market segment expanded, fintech lending companies were able to take on high-risk portfolios, offer clients long-term loans, and offer equity services at a lower rate. The peer-to-peer lending evolution in the fintech industry interfered with banking systems as they emerged as serious competitors. As the era of digital transformation continued, innovating operations to improve efficiency was a key trend in the fintech lending domain. To drive the industry’s competitive advantage, fintech companies adopted data-driven models powered by machine learning algorithms to reduce both internal and external risks and increase profitability.
 
 * Transitioning into the more recent years of the fintech lending industry, improvements in efficiency continues to be a leading trend. Continued promising advancements in artificial intelligence led to the implementation of AI systems to streamline client application, loan programs, and underwriting processes. In the latest period, automation and accessibility are two trends driving the alternative lending market.  Major Canadian banks recognizing the market demand for innovation in lending and funding processes are partnering with successful fintech companies to assist their efforts in providing capital to consumers and businesses. Building partnerships allow fintech companies to provide the access to capital clients are demanding, and traditional banks can take part in the implementation of automated systems that are speed oriented and data-driven.
 
@@ -85,15 +89,15 @@ A **few major competitors** in the Canadian lending domain include;
 
 ![image](Images/EasyFinancialLogo.jpg)
 
-* **Easy Financial**: Offers consumer lending through an omnichannel strategy that relies on technology. 
+* **Easy Financial**: Offers consumer lending through an omnichannel strategy that relies on technology.
 
 ![image](Images/OndeckLogo.jpeg)
 
-* **OnDeck Canada**: Provides small to medium sized businesses with access to online credit loans. 
+* **OnDeck Canada**: Provides small to medium sized businesses with access to online credit loans.
 
 ![image](Images/JustwealthLogo.jpg)
 
-* **Justwealth**: Provides clients, companies, and high-wealth investors access to custom investment portfolios and financing options. 
+* **Justwealth**: Provides clients, companies, and high-wealth investors access to custom investment portfolios and financing options.
 
 ![image](Images/LendingLoopLogo.png)
 
@@ -101,22 +105,24 @@ A **few major competitors** in the Canadian lending domain include;
 
 ![image](Images/NestwealthLogo.jpeg)
 
-* **Nest Wealth**: Provides their clients with access to direct-to-investor portfolio options and other financial management products. 
+* **Nest Wealth**: Provides their clients with access to direct-to-investor portfolio options and other financial management products.
+
+---
 
 ## Results
 
 ### What has been the business impact of this company so far?
 
-Since its conception, Clearbanc has managed to disrupt the venture capital industry. Their strategic use of AI technology and revenue growth metrics has allowed them to develop a unique credit underwriting process known as; “the 20-minute term sheet.” Unlike other venture capital competitors and alternative lending fintech companies, the individual experiences and industry expertise co-founders bring to the table allowed them to reach the growing success they have acquired today. Clearbanc continues to achieve its goal; to allow more entrepreneurs to own more of their business. Their revenue share model supported by artificial intelligence data has allowed them to provide $150 million CAD capital investment to over 500 Canadian direct-to-consumer ecommerce businesses. Additionally, the “20-minute term sheet” model has significantly diminished bias commonly found in the venture capital domain. Of the backed companies rejected by VC firms, majority of them were owned by females or visible-minorities. Clearbanc’s efforts continue to impact the modernization of the lending industry and positively influence the associated social practices. 
+Since its conception, Clearbanc has managed to disrupt the venture capital industry. Their strategic use of AI technology and revenue growth metrics has allowed them to develop a unique credit underwriting process known as; “the 20-minute term sheet.” Unlike other venture capital competitors and alternative lending fintech companies, the individual experiences and industry expertise co-founders bring to the table allowed them to reach the growing success they have acquired today. Clearbanc continues to achieve its goal; to allow more entrepreneurs to own more of their business. Their revenue share model supported by artificial intelligence data has allowed them to provide $150 million CAD capital investment to over 500 Canadian direct-to-consumer ecommerce businesses. Additionally, the “20-minute term sheet” model has significantly diminished bias commonly found in the venture capital domain. Of the backed companies rejected by VC firms, majority of them were owned by females or visible-minorities. Clearbanc’s efforts continue to impact the modernization of the lending industry and positively influence the associated social practices.
 
 ### What are some of the core metrics that companies in this domain use to measure success?
 
-Both the lending and alternative lending industries use similar key performance indicators to track and monitor their success in the domain. Research states there are eight primary metrics financial firms should use to analyze their growth and success model. 
+Both the lending and alternative lending industries use similar key performance indicators to track and monitor their success in the domain. Research states there are eight primary metrics financial firms should use to analyze their growth and success model.
 
 1. Pull through rate
 2. Decision to close time
 3. Abandoned loan rate
-4. Average origination value 
+4. Average origination value
 5. Application approval rate
 6. Net charge-off rate
 7. Customer acquisition cost
@@ -124,12 +130,13 @@ Both the lending and alternative lending industries use similar key performance 
 
 ### How is your company performing, based on these metrics?
 
-Although Clearbanc does not disclose valuation financials and performance information, from recent third party reports based on raised capital and the number of clients backed, the capital as a service firm is achieving their objectives. Clearbanc’s priority goal is to back more than 200 companies and provide access to $1 billion CAD equity-free capital. Based on the firms’ current customer acquisition and pull through rate, Clearbanc appears to be operating at optimal performance. However, as many businesses are affected due to current economic slow downs, future reporting on Clearbanc’s financials are expected to present sub-par outcomes. 
-
+Although Clearbanc does not disclose valuation financials and performance information, from recent third party reports based on raised capital and the number of clients backed, the capital as a service firm is achieving their objectives. Clearbanc’s priority goal is to back more than 200 companies and provide access to $1 billion CAD equity-free capital. Based on the firms’ current customer acquisition and pull through rate, Clearbanc appears to be operating at optimal performance. However, as many businesses are affected due to current economic slow downs, future reporting on Clearbanc’s financials are expected to present sub-par outcomes.
 
 ### How is your company performing relative to competitors in the same domain?
 
-Evaluating Clearbanc against competitors, it is evident that their use of AI technology and industry expertise allow them to be the leader within the domain. The firm's introduction of the “20-minute term sheet” part of the underwriting evaluation strategy suggests they are ahead in the fintech alternative lending space. Whilst most firms rely on machine learning technologies to assist them in venture capital decisions, none are able to provide the speed and efficiency Clearbanc provides to their clients. Automation and efficiency is at the forefront of operations at Clearbanc. Due to their focus on innovation and access to non-dilutive capital indicates they are leading the playing field against traditional venture capital investors. 
+Evaluating Clearbanc against competitors, it is evident that their use of AI technology and industry expertise allow them to be the leader within the domain. The firm's introduction of the “20-minute term sheet” part of the underwriting evaluation strategy suggests they are ahead in the fintech alternative lending space. Whilst most firms rely on machine learning technologies to assist them in venture capital decisions, none are able to provide the speed and efficiency Clearbanc provides to their clients. Automation and efficiency is at the forefront of operations at Clearbanc. Due to their focus on innovation and access to non-dilutive capital indicates they are leading the playing field against traditional venture capital investors.
+
+---
 
 ## Recommendations
 
@@ -141,20 +148,54 @@ Currently Clearbanc offers non-dilutive capital investments to direct-to-consume
 
 ### Why do you think that offering this product or service would benefit the company?
 
-As Clearbanc continues to grow and develop its own equity, continuing to evolve and respond to market demand is critical. The capital as a service firm changed the landscape of alternative lending and should continue pursuing this growth model. As they respond to entrepreneurs' demand for new financial structures, individual consumers require the same attention in regarding personal financing (i.e. loans). The financial resources and human capital Clearbanc is equipped with will allow them to reach untapped consumer segments that lack access to capital and overall, improve their profitability. 
+As Clearbanc continues to grow and develop its own equity, continuing to evolve and respond to market demand is critical. The capital as a service firm changed the landscape of alternative lending and should continue pursuing this growth model. As they respond to entrepreneurs' demand for new financial structures, individual consumers require the same attention in regarding personal financing (i.e. loans). The financial resources and human capital Clearbanc is equipped with will allow them to reach untapped consumer segments that lack access to capital and overall, improve their profitability.
 
 ### What technologies would this additional product or service utilize?
 
-Clearbanc is able to provide rapid access to capital due to their data-driven machine learning and artificial intelligence technology. To continue their revenue growth model and reach a new consumer segment, the use of the same advancing technologies can assist in this effort. AI technology has the capacity to analyze crucial metrics used to determine the investment portfolio and provide these results to the Clearbanc team and consumers quickly. 
+Clearbanc is able to provide rapid access to capital due to their data-driven machine learning and artificial intelligence technology. To continue their revenue growth model and reach a new consumer segment, the use of the same advancing technologies can assist in this effort. AI technology has the capacity to analyze crucial metrics used to determine the investment portfolio and provide these results to the Clearbanc team and consumers quickly.
 
 ### Why are these technologies appropriate for your solution?
 
-Applying the same methods to individual consumer loans will continue providing the same rapid response to the consumer demand for accessible capital. Just as the “20-minute term sheet” was introduced to entrepreneurs by AI technology and strategically chosen performance indicators, a similar campaign can be delivered to a more diverse consumer base for personal loans. 
+Applying the same methods to individual consumer loans will continue providing the same rapid response to the consumer demand for accessible capital. Just as the “20-minute term sheet” was introduced to entrepreneurs by AI technology and strategically chosen performance indicators, a similar campaign can be delivered to a more diverse consumer base for personal loans.
 
+---
 
+## Addendum
 
+[‘A bank for the new economy’: How Clearbanc is powering the DTC ecosystem](https://www.modernretail.co/startups/a-bank-for-the-new-economy-how-clearbanc-is-powering-the-dtc-ecosystem/)
 
+[Canada’s Alternative Financing Market Is Taking Off](https://debanked.com/2019/05/canadas-alternative-financing-market-is-taking-off/#:~:text=Some%20major%20players%20in%20the,Thinking%20Capital%2C%20an%20online%20small)
 
+[Clearbanc: A fintech company targeting North America's freelancers](https://www.bnnbloomberg.ca/video/clearbanc-a-fintech-company-targeting-north-america-s-freelancers~1082684)
 
+[Clearbanc: About Us](https://clearbanc.com/about-us/)
 
+[Clearbanc: Bridging The Gap: The Future Of E-Commerce Funding](https://blog.clearbanc.com/future-of-e-commerce-funding/)
 
+[Clearbanc is Using AI to Level the Playing Field in Funding](https://www.forbes.com/sites/cognitiveworld/2019/04/11/clearbanc-ai-funding/#1e2310477b60)
+
+[Clearbanc Investor Rank](https://www.crunchbase.com/organization/clearbanc#section-overview)
+
+[Clearbanc plans to disrupt venture capital with 'The 20-min Term Sheet](https://techcrunch.com/2019/04/03/clearbanc-plans-to-disrupt-venture-capital-with-the-20-min-term-sheet/)
+
+[Clearbanc Raises $67 Million CAD To Service Dramatic Spike In Interest From Ecommerce Entrepreneurs](https://betakit.com/clearbanc-raises-67-million-cad-to-service-dramatic-spike-in-interest-from-ecommerce-entrepreneurs/)
+
+[Clearbanc: Team](https://www.teamclearbanc.com/)
+
+[Digital Finance Insitute Names Canada's Top 50 FinTech Companies for 2019](https://betakit.com/digital-finance-institute-names-canadas-top-50-fintech-companies-for-2019/)
+
+[Fintech’s footprint growing in Canada’s lending landscape](https://www.wealthprofessional.ca/news/industry-news/fintechs-footprint-growing-in-canadas-lending-landscape/326639)
+
+[FinTech in Canada – Dawn of a revolution?](https://www.osler.com/en/resources/regulations/2016/fintech-in-canada-dawn-of-a-revolution)
+
+[Five Trends Shaping Fintech Into 2020](https://www.forbes.com/sites/forbesfinancecouncil/2019/09/09/five-trends-shaping-fintech-into-2020/#3a4a162e2f13)
+
+[Investors bet another $50M on Clearbanc's revenue share model](https://techcrunch.com/2019/07/31/clearbanc-300m/)
+
+[Series A, B, C Funding: How It Works](https://www.investopedia.com/articles/personal-finance/102015/series-b-c-funding-what-it-all-means-and-how-it-works.asp)
+
+[The 8 Most Important Lending KPIs](https://www.lightico.com/blog/lending-kpis-most-important/)
+
+[Top 10 Trends in Lending and Leasing - 2017](https://www.capgemini.com/wp-content/uploads/2017/07/lending_and_leasing_top_10_trends_2017_web.pdf)
+
+[The Top FinTech Trends Driving the Next Decade](https://search.proquest.com/openview/ec8b9f5445ec8ad1ef9cb90c222ae0d0/1?pq-origsite=gscholar&cbl=47754)
