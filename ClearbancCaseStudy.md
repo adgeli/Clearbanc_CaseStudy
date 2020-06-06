@@ -90,7 +90,7 @@ The lending market is experiencing exponential growth from emerging and developi
 
 A **few major competitors** in the Canadian lending domain include;
 
-![imageshopify](Images/ShopifyLogo.jpg)
+<img src="Images/ShopifyLogo.jpg" width="300">
 
 * **Shopify** : Provides ecommerce businesses with an integrated platform that allows them to develop a successful business.
 
@@ -98,7 +98,8 @@ A **few major competitors** in the Canadian lending domain include;
 
 * **Easy Financial**: Offers consumer lending through an omnichannel strategy that relies on technology.
 
-![image](Images/OndeckLogo.jpeg)
+<img src="Images/OndeckLogo.jpeg" width="300">
+
 
 * **OnDeck Canada**: Provides small to medium sized businesses with access to online credit loans.
 
@@ -110,7 +111,7 @@ A **few major competitors** in the Canadian lending domain include;
 
 * **Lending Loop**: A peer-to-peer fintech company providing small businesses access to capital.
 
-![image](Images/NestwealthLogo.jpeg)
+<img src="Images/NestwealthLogo.jpeg" width="400">
 
 * **Nest Wealth**: Provides their clients with access to direct-to-investor portfolio options and other financial management products.
 
@@ -206,3 +207,4 @@ Applying the same methods to individual consumer loans will continue providing t
 [Top 10 Trends in Lending and Leasing - 2017](https://www.capgemini.com/wp-content/uploads/2017/07/lending_and_leasing_top_10_trends_2017_web.pdf)
 
 [The Top FinTech Trends Driving the Next Decade](https://search.proquest.com/openview/ec8b9f5445ec8ad1ef9cb90c222ae0d0/1?pq-origsite=gscholar&cbl=47754)
+
