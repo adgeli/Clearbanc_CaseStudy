@@ -131,7 +131,25 @@ Although Clearbanc does not disclose valuation financials and performance inform
 
 Evaluating Clearbanc against competitors, it is evident that their use of AI technology and industry expertise allow them to be the leader within the domain. The firm's introduction of the “20-minute term sheet” part of the underwriting evaluation strategy suggests they are ahead in the fintech alternative lending space. Whilst most firms rely on machine learning technologies to assist them in venture capital decisions, none are able to provide the speed and efficiency Clearbanc provides to their clients. Automation and efficiency is at the forefront of operations at Clearbanc. Due to their focus on innovation and access to non-dilutive capital indicates they are leading the playing field against traditional venture capital investors. 
 
+## Recommendations
 
+### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+
+Currently Clearbanc offers non-dilutive capital investments to direct-to-consumer e-commerce entrepreneurs to primarily support their marketing and customer acquisition efforts. As Clearbanc develops themselves as a leader in the fintech alternative lending domain, providing entrepreneurs with a broader scope of financial services will assist in diversifying their revenue share model. Providing additional alternative financial service structures aligns with their current business objectives, therefore implies it will be a profitable strategic growth model. Clearbanc has the ability to expand from offering venture capital investments, to alternative loan structures for consumers operating outside of a business environment.
+
+![imagepitch](Images/Clearbancpitch.png)
+
+### Why do you think that offering this product or service would benefit the company?
+
+As Clearbanc continues to grow and develop its own equity, continuing to evolve and respond to market demand is critical. The capital as a service firm changed the landscape of alternative lending and should continue pursuing this growth model. As they respond to entrepreneurs' demand for new financial structures, individual consumers require the same attention in regarding personal financing (i.e. loans). The financial resources and human capital Clearbanc is equipped with will allow them to reach untapped consumer segments that lack access to capital and overall, improve their profitability. 
+
+### What technologies would this additional product or service utilize?
+
+Clearbanc is able to provide rapid access to capital due to their data-driven machine learning and artificial intelligence technology. To continue their revenue growth model and reach a new consumer segment, the use of the same advancing technologies can assist in this effort. AI technology has the capacity to analyze crucial metrics used to determine the investment portfolio and provide these results to the Clearbanc team and consumers quickly. 
+
+### Why are these technologies appropriate for your solution?
+
+Applying the same methods to individual consumer loans will continue providing the same rapid response to the consumer demand for accessible capital. Just as the “20-minute term sheet” was introduced to entrepreneurs by AI technology and strategically chosen performance indicators, a similar campaign can be delivered to a more diverse consumer base for personal loans. 
 
 
 
