@@ -1,5 +1,14 @@
 # Clearbanc Case Study
 
+## Table of Contents
+
+- [Clearbanc Origin & Company Overview](#Clearbanc-Origin-&-Company-Overview)
+- [Business Activities](#Business-Activities)
+- [Landscape](#Landscape)
+- [Results](#Results)
+- [Recommendations](#Recommendations)
+- [Addendum](#Addendum)
+
 ## Clearbanc Origin & Company Overview
 
 ![imagebanner](Images/Clearbank_Banner.jpg)*Clearbanc is a modern non-dillutive capital as a service (CaaS) firm. The FinTech comapny was founded in 2015 and is headquartered in Toronto, Canada.*
